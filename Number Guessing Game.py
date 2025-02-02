@@ -40,7 +40,7 @@ while True:
         number_of_chances = 3
 
     print(f"""
-    Great! You have selected the {level} dificulty level.
+    Great! You have selected the {level} difficulty level.
     Let's start the game!
     """)
 
